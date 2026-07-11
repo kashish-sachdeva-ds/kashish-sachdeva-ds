@@ -1,146 +1,172 @@
-<h1 align="center">
-  Hi 👋, I'm Kashish Sachdeva
-</h1>
+<div align="center">
 
-<h3 align="center">
-AI & Machine Learning Undergraduate | Data Science Enthusiast | Building Intelligent Solutions
-</h3>
+# Hi there, I'm Kashish Sachdeva 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Aspiring+Data+Scientist;Machine+Learning+Developer;Always+Learning+Something+New" />
-</p>
+### AI & Machine Learning Undergraduate • Data Science Enthusiast • Future ML Engineer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Building+Machine+Learning+Projects;Learning+Deep+Learning+Every+Day;Always+Curious+About+AI"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-🎓 B.E. Computer Science Engineering (AI & ML)  
+🎓 **B.E. Computer Science (AI & ML)**  
 🏫 Chitkara University
 
-I'm passionate about using data and artificial intelligence to solve real-world problems.
+I'm passionate about Artificial Intelligence and Data Science. I enjoy turning messy data into useful insights and building machine learning models that solve real-world problems.
 
-Currently exploring:
+Currently exploring
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 📊 Data Science
-- 🐍 Python
-- 🗄 SQL
-- 📈 Data Visualization
-
-I enjoy transforming raw data into meaningful insights and building models that create impact.
+- Machine Learning
+- Deep Learning
+- Data Science
+- SQL
+- Computer Vision
+- Natural Language Processing
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql"/>
+</p>
 
----
+### Libraries
 
-### Data Science
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge)
-
----
-
-### Machine Learning
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
-
----
+Pandas • NumPy • Matplotlib • Seaborn • Scikit-Learn
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
+</p>
 
 ---
 
-## 📚 Currently Learning
-
-- Deep Learning
-- Neural Networks
-- Natural Language Processing
-- Computer Vision
-- MLOps
-- Data Engineering
-
----
-
-## 📌 Featured Projects
-
-### 📈 Customer Retention Prediction
-
-Predicting customer churn using machine learning models and feature engineering.
-
-**Tech Used**
-
-- Python
-- Pandas
-- Scikit-Learn
-- XGBoost
-- Matplotlib
-
----
-
-### 🧠 Deep Learning Practice
-
-Collection of notebooks covering:
-
-- ANN
-- CNN
-- Transfer Learning
-- TensorFlow
-- Keras
-
----
-
-### 📊 Data Structures & Algorithms
-
-Solving DSA problems with clean and optimized Python/C++ implementations.
-
----
-
-## 📈 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kashish-sachdeva-ds&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kashish-sachdeva-ds&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish-sachdeva-ds&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish-sachdeva-ds&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+---
 
-## 💡 Quote
-
-> "The best way to predict the future is to build it."
-
-
-## 🤝 Let's Connect
-
-📧 Email: your-email@example.com
-
-💼 LinkedIn:
-https://linkedin.com/in/your-profile
-
+# 🔥 Contribution Streak
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
+<img src="https://streak-stats.demolab.com?user=kashish-sachdeva-ds&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kashish-sachdeva-ds&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kashish-sachdeva-ds&theme=tokyonight&column=7"/>
+
+</p>
+
+---
+
+# 💻 Current Focus
+
+✔ Machine Learning
+
+✔ Deep Learning
+
+✔ Data Analysis
+
+✔ Neural Networks
+
+✔ Kaggle Competitions
+
+✔ Open Source
+
+---
+
+# 📂 Featured Projects
+
+## 📈 Customer Retention Prediction
+
+Predict customer churn using Machine Learning.
+
+**Stack**
+
+Python • Pandas • Scikit-Learn • XGBoost
+
+---
+
+## 🧠 Deep Learning Practice
+
+Neural Networks, CNNs, TensorFlow, Keras and practical notebooks.
+
+---
+
+## 📊 Data Structures & Algorithms
+
+Optimized DSA solutions in Python and C++.
+
+---
+
+# 📅 2026 Goals
+
+- 🚀 Build 20+ ML Projects
+- 🧠 Master Deep Learning
+- 📊 Participate in Kaggle Competitions
+- 🌍 Contribute to Open Source
+- 💼 Land an AI/ML Internship
+- 📚 Learn MLOps
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+*"Artificial Intelligence is not about replacing humans; it's about amplifying human potential."*
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
