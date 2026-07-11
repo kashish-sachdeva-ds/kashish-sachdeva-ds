@@ -10,11 +10,14 @@ Currently building end-to-end ML projects and continuously improving my skills.
 </p>
 
 ---
+🎯 Interested in AI/ML and Data Science internships.
+
+---
 
 
 ### 📫 Connect
 
-- 💼 LinkedIn: *www.linkedin.com/in/kashish-sachdeva-ds*
+- 💼 LinkedIn: - *[Kashish Sachdeva](https://linkedin.com/in/kashish-sachdeva-ds)*
 - 📧 Email: *kashish.sachdeva.ds@gmail.com*
 
 ---
