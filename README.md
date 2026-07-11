@@ -11,25 +11,11 @@ Currently building end-to-end ML projects and continuously improving my skills.
 
 ---
 
-### 🛠 Tech Stack
-
-`Python` • `SQL` • `Pandas` • `NumPy` • `Scikit-Learn` • `TensorFlow` • `Git`
-
----
-
-### 🌱 Currently Learning
-
-- Deep Learning
-- NLP
-- Computer Vision
-- MLOps
-
----
 
 ### 📫 Connect
 
-- 💼 LinkedIn: *(Add your link)*
-- 📧 Email: *(Add your email)*
+- 💼 LinkedIn: *www.linkedin.com/in/kashish-sachdeva-ds*
+- 📧 Email: *kashish.sachdeva.ds@gmail.com*
 
 ---
 
