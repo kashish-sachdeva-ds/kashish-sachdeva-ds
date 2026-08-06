@@ -38,14 +38,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| **[Project Name 1](link)** | End-to-end ML pipeline for X | Python, scikit-learn, FastAPI |
-| **[Project Name 2](link)** | Deep learning model for Y | PyTorch, CNN, Transfer Learning |
-| **[Project Name 3](link)** | Data analysis & visualization of Z | Pandas, Plotly, Streamlit |
-
 > ⭐ *Check my pinned repositories below for more!*
 
 ---
