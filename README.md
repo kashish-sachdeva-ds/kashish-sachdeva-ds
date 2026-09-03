@@ -1,53 +1,44 @@
-<h1 align="center">Hi 👋, I'm Kashish Sachdeva</h1>
+<h1 align="center">Kashish Sachdeva</h1>
 
 <p align="center">
-  <b>AI & Machine Learning Undergraduate</b> @ Chitkara University
+  <b>Data Scientist & Machine Learning Engineer</b><br>
+  <i>Architecting end-to-end ML pipelines, conformal uncertainty models, and production-grade microservices.</i>
 </p>
 
 <p align="center">
-  Building end-to-end ML systems · Exploring Deep Learning & MLOps<br>
-  <i>Turning data into decisions, one model at a time.</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://linkedin.com/in/kashish-sachdeva-ds"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kashish.sachdeva.ds@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🔬 Core Competencies & Engineering Focus
+
+* **Machine Learning & Modeling:** Predictive Analytics, XGBoost, Model Calibration, Conformal Prediction, Out-of-Distribution (OOD) Detection.
+* **MLOps & Systems Architecture:** FastAPI Microservices, Docker Containerization, Redis Caching, Asynchronous Prediction Scoring, Population Stability Index (PSI) Drift Monitoring.
+* **Core Fundamentals:** Low-Latency Data Structures & Algorithms (Java / C++), Database Optimization (MySQL, Normalization, Indexing), Applied Optimization & Linear Algebra.
+
+---
+
+### 🛠 Tech Stack & Tooling
+
+* **Languages:** Python, Java, C++, SQL (MySQL)
+* **ML / DL Frameworks:** Scikit-Learn, XGBoost, PyTorch, TensorFlow, SHAP, Lifelines
+* **Data & Analytics:** Pandas, NumPy, Matplotlib, Seaborn
+* **MLOps & Web Backend:** FastAPI, Docker, Redis, REST APIs
+
+---
+
+### 📊 GitHub Activity Snapshot
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-
 ---
-
-> ⭐ *Check my pinned repositories below for more!*
-
----
-
-### 🎯 Currently
-- 🔭 Working on **[retentionai]**
-- 🌱 Learning **MLOps / LLM Fine-tuning / Vector Databases**
-- 🤝 Open to **AI/ML & Data Science internships**
-
----
-
-### 📫 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/kashish-sachdeva-ds">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:kashish.sachdeva.ds@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <i>Open for High-Impact Data Science & Machine Learning Engineering Roles.</i>
 </p>
