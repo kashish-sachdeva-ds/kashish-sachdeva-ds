@@ -23,19 +23,10 @@
 
 ### 🛠 Tech Stack & Tooling
 
-* **Languages:** Python, Java, C++, SQL (MySQL)
-* **ML / DL Frameworks:** Scikit-Learn, XGBoost, PyTorch, TensorFlow, SHAP, Lifelines
+* **Languages:** Python, Java, C++, SQL
+* **ML / DL Frameworks:** Scikit-Learn, PyTorch, TensorFlow, SHAP, Lifelines
 * **Data & Analytics:** Pandas, NumPy, Matplotlib, Seaborn
-* **MLOps & Web Backend:** FastAPI, Docker, Redis, REST APIs
-
----
-
-### 🏆 GitHub Achievements & Metrics
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&column=6&margin-w=15" />
-</p>
-
+* **MLOps & Web Backend:** FastAPI, Docker, Redis
 ---
 
 <p align="center">
