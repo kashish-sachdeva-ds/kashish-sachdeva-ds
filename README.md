@@ -30,10 +30,10 @@
 
 ---
 
-### 📊 GitHub Activity Snapshot
+### 🏆 GitHub Achievements & Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="98%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&column=6&margin-w=15" />
 </p>
 
 ---
